@@ -37,6 +37,9 @@ Scrum Roles
 ## Sprint
 A sprint is a period of time within a scrum where the team will work to complete a specified amount of work set by the scrum master. The purpose of a sprint is to help the team ship better software to the users. 
 
+## Personas
+Personas are detailed, synthetic biographies of fictitious users of the future product and are used to represent certain categories of people who might be using your product. They provide designers and developers with an anchor for justifying design choices and help weight certain decisions towards the target demographics.
+
 # SQL questions
 ## What is a foreign key?
 A foreign key is a key which refers to the primary key of another table and is often used to link two tables together.
