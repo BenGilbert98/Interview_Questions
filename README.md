@@ -40,6 +40,14 @@ A sprint is a period of time within a scrum where the team will work to complete
 ## Personas
 Personas are detailed, synthetic biographies of fictitious users of the future product and are used to represent certain categories of people who might be using your product. They provide designers and developers with an anchor for justifying design choices and help weight certain decisions towards the target demographics.
 
+## V-model, Agile and Waterfall – difference between them and use cases
+### V-model
+The main idea in the V-Model is that development tasks and testing tasks are corresponding activities of equal importance, which is symbolized by the two sides of the V. The model moves from right to left with business requirements and design processes being done on the left side and testing and debugging happening on the right hand side. The V model is useful for small to medium projects where the requirements are defined and fixed. Similarly, enough technical knowledge and resources are required. Since no prototypes are produced, this is a high risk model to use.
+### Agile
+Agile is a methodology which utilises core values or principles to help increase the efficiency of a project by breaking tasks down into smaller, more consumable increments. Agile is used when there are unclear requirements, a need to implement changes or when user needs are assumed to be changing.
+### Waterfall
+The idea of waterfall is that you complete the project one development level at a time before the next is initiated. A review takes place to determine if the project is on the right path and whether or not to continue or discard the project. Waterfall is used for short projects, where the product definition is stable and where the requirements are well known and fixed.
+
 # SQL questions
 ## What is a foreign key?
 A foreign key is a key which refers to the primary key of another table and is often used to link two tables together.
