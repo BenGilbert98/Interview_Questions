@@ -1,7 +1,8 @@
 # Agile and Scrum
 ## What are agile and scrum
-Agile is a methodology which utilises core values or principles to help increase the efficiency of a project by breaking tasks down into smaller, more consumable increments. I have used agile throughout my training at Sparta in order to maximise the amount of learning we can do by breaking topics down into small sub sections. The result of which is more efficient teaching and learning for each topic.
-Scrum is a framework which is used to help bring teams together by encouraging learning through experiences and reflection upon wins and losses during a sprint in order to keep improving. We have implemented a scrum framework into our daily routine by having a
+- Agile is a methodology which utilises core values or principles to help increase the efficiency of a project by breaking tasks down into smaller, more consumable increments. I have used agile throughout my training at Sparta in order to maximise the amount of learning we can do by breaking topics down into small sub sections. The result of which is more efficient teaching and learning for each topic.
+- Scrum is a framework which is used to help bring teams together by encouraging learning through experiences and reflection upon wins and losses during a sprint in order to keep improving. We have implemented a scrum framework into our daily routine by having a
+
 - Sprint plan at the start of the week on Trello to show what will be learned through the weeklong sprint
 - Daily stand-ups in the mornings to find any initial problems and reflect upon what we enjoyed on the previous day.
 - Retrospective in the form on 1 to 1 interview at the end of the sprint to catch up on progress and reflect on the week.
