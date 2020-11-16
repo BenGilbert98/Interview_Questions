@@ -16,6 +16,10 @@ The main difference between agile and scrum is that agile is a methodology which
 3.	Customer collaboration over contract negotiation.
 4.	Responding to change over following a plan.
 
+## Information Radiators
+Information radiators are a comprehensive display of key information which is shared between team members and stakeholders which has information such as task boards, number of tests and progress of the team
+they can be displayed in a number of ways and are beneficial it provides a boost to communication and allows for the health of the team to be checked.
+
 ## 3 amigos:
 The three amigos are businesses analyst, developer and tester. The principle of the three amigos is that all three of these roles should be present within a meeting  so that the business, quality assurance and development aspects of the task and team can be discussed in one sitting. The objective of this is to bridge the gap and improve understanding between the departments 
 Scrum Roles
