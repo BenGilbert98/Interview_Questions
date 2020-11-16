@@ -59,7 +59,9 @@ Agile involves customer input and as such they are available throughout the proj
 #### V model vs waterfall
 Waterfall is a continuous process and is overall a cheaper and more simplistic approach to a project. Similarly, the number of defects and bugs within a waterfall project are generally lower than with v-model. Where v-model gains an advantage is in its flexibility and also guarantee of success which is higher than with waterfall.
 
-
+## Starfish Retrospective
+Allows teams to reflect on actions and activities with varying degrees of action, the benefit of which is that team members understand how others perceive the value of their perspective.
+Often it takes the form or start, more of, continue, less of and stop. We have used the starfish retrospective since week 2 within our one to one interviews in order to provide feedback as to how the lessons are conducted and to identify areas of improvement.
 
 
 # SQL questions
@@ -86,6 +88,7 @@ Another instance of OOP was in our bank account task where we had to create acco
 
 ## What is TDD and how have you used it?
 TDD is test driven development and is a process that relies on test cases being produced before the software is fully developed then building the code to satisfy those tests. One example where we have used TDD within our learning was for the bread factory task where we had to define functions to make dough, bake dough and run factory. Here, TDD was used to make sure that these functions returned their expected values when specific inputs were used. After which, the classes and functions were defined. 
+The result of this was that the DoD for the task was clearly set out before the code was written, providing a clear specification, allowing the code to be written alot easier. 
 
 
 
