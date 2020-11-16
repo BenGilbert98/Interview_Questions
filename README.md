@@ -106,5 +106,11 @@ The result of this was that the DoD for the task was clearly set out before the 
 ## What is DevOps?
 DevOps at its core is based around increasing collaboration between development and operations, which has the effect of not only increasing the frequency of releasing updates into production, but also the reliability of said updates.
 
-## Why DevOps?
+## Why DevOps
+There are multiple benefits of leveraging DevOps within a business the first of which is the increased collaboration between developers and operations.
+This has the effect of creating a dynamic environment of mutual communication which will increase the efficiency at which work is completed.
+Additionally, DevOps allows for continuous release and deployment of products through automation, these automated pipelines allows the developers and operations teams to integrate code instantly. Furthermore,
+By automating the delivery pipeline, it becomes possible to ensure the reliability and stability of an application after every new release
+
+## Why did you choose DevOps?
 I chose to pursue a career in this field as It allows you to be involved not only in the software development but also the infrastructure management of a business’s services. Additionally, I feel that in this role I would be able to not only utilise my current skills gained throughout my education and training at Sparta, but also develop on my personal and technical skills, whilst being able to tackle a wide range of challenging tasks within a company.
