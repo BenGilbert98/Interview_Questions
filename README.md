@@ -43,10 +43,24 @@ Personas are detailed, synthetic biographies of fictitious users of the future p
 ## V-model, Agile and Waterfall – difference between them and use cases
 ### V-model
 The main idea in the V-Model is that development tasks and testing tasks are corresponding activities of equal importance, which is symbolized by the two sides of the V. The model moves from right to left with business requirements and design processes being done on the left side and testing and debugging happening on the right hand side. The V model is useful for small to medium projects where the requirements are defined and fixed. Similarly, enough technical knowledge and resources are required. Since no prototypes are produced, this is a high risk model to use.
+![](images/v-model.png)
 ### Agile
 Agile is a methodology which utilises core values or principles to help increase the efficiency of a project by breaking tasks down into smaller, more consumable increments. Agile is used when there are unclear requirements, a need to implement changes or when user needs are assumed to be changing.
+![](images/agile.png)
 ### Waterfall
 The idea of waterfall is that you complete the project one development level at a time before the next is initiated. A review takes place to determine if the project is on the right path and whether or not to continue or discard the project. Waterfall is used for short projects, where the product definition is stable and where the requirements are well known and fixed.
+![](images/waterfall.png)
+
+### Differences
+#### Agile vs v-model
+Agile differs from v model in multiple ways first of all, in agile testing and development are simultaneous and agile is more focused on teamwork and communication between users, developers and testers. V-model consists of less phases (verification and validation) and is more focused on independence between testers and developers. Additionally, it is not iterative or incremental unlike agile.
+#### Agile vs waterfall
+Agile involves customer input and as such they are available throughout the project. Additionally, agile prioritises each task by value so that the most important features are implemented first which reduces risk of an unstable product. Contrasting with waterfall, customers are only involved at certain milestones and the projects have an all or nothing approach where either the customers get what they ask for or don’t. This will make projects more risky when using waterfall.
+#### V model vs waterfall
+Waterfall is a continuous process and is overall a cheaper and more simplistic approach to a project. Similarly, the number of defects and bugs within a waterfall project are generally lower than with v-model. Where v-model gains an advantage is in its flexibility and also guarantee of success which is higher than with waterfall.
+
+
+
 
 # SQL questions
 ## What is a foreign key?
